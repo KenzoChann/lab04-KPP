@@ -75,7 +75,7 @@ Output of `git shortlog -sn`:
 
 ```text
      9  KenzoChann
-     6  potpot2626
+     8  potpot2626
      9  preston-shah
 ```
 
