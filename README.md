@@ -22,6 +22,11 @@ Why Git could not resolve it automatically: two people changed the same lines of
 
 Preston also got a conflict when he ran git pull, because he had already committed his own row before pulling. He resolved it the same way: he kept all the rows and deleted the marker lines.
 
+##  Git Contribution Summary
+     9  KenzoChann
+     6  potpot2626
+     6  preston-shah
+
 ## Reflection Questions
 
 1. **Why was your push rejected, and how did you fix it?**
